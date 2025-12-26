@@ -1,0 +1,20 @@
+--create Project5-1\Project5-1.lib
+project5-1\main.o
+project5-1\gpio.o
+project5-1\stm32f1xx_it.o
+project5-1\stm32f1xx_hal_msp.o
+project5-1\oled.o
+project5-1\stm32f1xx_hal_gpio_ex.o
+project5-1\stm32f1xx_hal_tim.o
+project5-1\stm32f1xx_hal_tim_ex.o
+project5-1\stm32f1xx_hal.o
+project5-1\stm32f1xx_hal_rcc.o
+project5-1\stm32f1xx_hal_rcc_ex.o
+project5-1\stm32f1xx_hal_gpio.o
+project5-1\stm32f1xx_hal_dma.o
+project5-1\stm32f1xx_hal_cortex.o
+project5-1\stm32f1xx_hal_pwr.o
+project5-1\stm32f1xx_hal_flash.o
+project5-1\stm32f1xx_hal_flash_ex.o
+project5-1\stm32f1xx_hal_exti.o
+project5-1\system_stm32f1xx.o
